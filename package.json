@@ -1,0 +1,22 @@
+{
+  "name": "@puzzleframework/joi-e164",
+  "version": "1.0.0",
+  "description": "Joi extension to validate E.164 numbering format.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spark-development/joi-e164.git"
+  },
+  "keywords": [
+    "joi",
+    "phone number validation",
+    "joi-e164",
+    "e164"
+  ],
+  "author": "Valentin Duricu <valentin.duricu@spark-dev.ro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spark-development/joi-e164/issues"
+  },
+  "homepage": "https://github.com/spark-development/joi-e164#readme"
+}
