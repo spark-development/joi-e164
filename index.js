@@ -1,7 +1,6 @@
-
 "use strict";
 
 module.exports = joi => ({
     base: joi.string().regex(/^\+?[1-9]\d{1,14}$/),
-    type: "string"
-})
+    type: "e164"
+});
